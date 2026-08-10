@@ -36,3 +36,14 @@ Jenkins was used to pull the source code from GitHub and build the application u
 ## Tomcat Deployment
 
 The generated WAR file was deployed to Apache Tomcat running on AWS EC2.
+## Jenkins Job
+
+![Jenkins Online Bookstore](jenkins-onlinebookstore.png)
+
+## Jenkins CI/CD Pipeline
+
+![Jenkins Console](jenkins-onlinebookstore-console.png)
+
+## Online Bookstore Running on Tomcat
+
+![Online Bookstore](onlinebookstore-tomcat.png)
